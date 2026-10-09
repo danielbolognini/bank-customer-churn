@@ -93,7 +93,3 @@ jupyter notebook
 e nel notebook usare `pd.read_csv("Bank_Churn.csv")`.
 
 Librerie usate: pandas, matplotlib, seaborn, scikit-learn.
-
-## Nota
-
-Alcune parti del codice (cross-validation, grid search, importanza delle variabili) e l'idea di usare `class_weight='balanced'` sono state sviluppate con l'aiuto di strumenti di intelligenza artificiale. Le abbiamo poi verificate e capite prima di inserirle nel progetto, come indicato anche nel notebook.
